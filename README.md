@@ -13,39 +13,28 @@ Ce dépôt couvre le langage C# depuis les bases jusqu'à la Programmation Orien
 
 ---
 
-## 📚 Plan du cours
+## 📚 Supports de cours
 
 | # | Chapitre | Lien |
 |---|----------|------|
-| 1 | Introduction à C# | [cours/intro_Csharp.md](cours/intro_Csharp.md) |
-| 2 | Bases du langage | [cours/baseCsharp.md](cours/baseCsharp.md) |
-| 3 | Structures de données | [cours/structures_donneCsharp.md](cours/structures_donneCsharp.md) |
-| 4 | Fonctions & Gestion d'erreurs | [cours/fonction_gesErr.md](cours/fonction_gesErr.md) |
-| 5 | Programmation Orientée Objet | [cours/Concept-POO_Csharp.md](cours/Concept-POO_Csharp.md) |
-| 6 | Bases de données avec C# | [cours/basededonné_csharp.md](cours/basededonné_csharp.md) |
+| 1 | Introduction à C# | [📄 1-intro_Csharp.pdf](1-intro_Csharp.pdf) |
+| 2 | Bases du langage | [📄 2-baseCsharp.pdf](2-baseCsharp.pdf) |
+| 3 | Structures de données | [📄 3-structures_donneCsharp.pdf](3-structures_donneCsharp.pdf) |
+| 4 | Fonctions & Gestion d'erreurs | [📄 4-fonction_gesErr.pdf](4-fonction_gesErr.pdf) |
+| 5 | Programmation Orientée Objet | [📄 5-Concept-POO_Csharp.pdf](5-Concept-POO_Csharp.pdf) |
+| 6 | Bases de données avec C# | [📄 6-basededonné_csharp.pdf](6-basededonné_csharp.pdf) |
 
 ---
 
 ## 🏋️ Exercices
 
-Les exercices pratiques seront ajoutés progressivement dans [`exercices/`](exercices/).
+Les exercices pratiques sont dans [`exercices/`](exercices/).
 
 ---
 
 ## ✅ Corrections
 
 Les corrigés sont dans [`corrections/`](corrections/).
-
----
-
-## 🗂️ Organisation du dépôt
-
-```
-CoursCsharp/
-├── cours/          → Chapitres du cours (.md)
-├── exercices/      → TPs et exercices
-└── corrections/    → Corrigés
-```
 
 ---
 
